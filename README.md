@@ -19,7 +19,7 @@ This repository provides the official implementation of TrajBooster, featuring:
 - [x] 🤖 **Hardware deployment**: Complete setup and code for Unitree G1 robot
 - [x] 🕹️ **Teleoperation system**: Real-robot teleoperation implementation and data collection pipeline
 - [x] 🧠 **VLA model deployment**: Real-robot deployment implementation for Vision-Language-Action models
-- [ ] 📈 **Training scripts**: Retargeting model training code (coming soon)
+- [x] 📈 **Training scripts**: Retargeting model training code (coming soon)
 - [x] 📋 **Documentation Hub**: Comprehensive installation guides, deployment tutorials, and troubleshooting resources 
 
 
@@ -222,7 +222,7 @@ If you find our work helpful, please consider citing:
 ```bibtex
 @article{liu2025trajbooster,
   title={TrajBooster: Boosting Humanoid Whole-Body Manipulation via Trajectory-Centric Learning},
-  author={Liu, Jiacheng and Ding, Pengxiang and Zhou, Qihang and Wu, Yuxuan and Huang, Da and Peng, Zimian and Xiao, Wei and Zhang, Weinan and Yang, Lixin and Lu, Cewu and others},
+  author={Liu, Jiacheng and Ding, Pengxiang and Zhou, Qihang and Wu, Yuxuan and Huang, Da and Peng, Zimian and Xiao, Wei and Zhang, Weinan and Yang, Lixin and Lu, Cewu and Wang, Donglin},
   journal={arXiv preprint arXiv:2509.11839},
   year={2025}
 }
