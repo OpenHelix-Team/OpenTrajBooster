@@ -19,7 +19,7 @@ This repository provides the official implementation of TrajBooster, featuring:
 - [x] 🤖 **Hardware deployment**: Complete setup and code for Unitree G1 robot
 - [x] 🕹️ **Teleoperation system**: Real-robot teleoperation implementation and data collection pipeline
 - [x] 🧠 **VLA model deployment**: Real-robot deployment implementation for Vision-Language-Action models
-- [x] 📈 **Training scripts**: Retargeting model training code (coming soon)
+- [x] 📈 **Training scripts**: Retargeting model training code 
 - [x] 📋 **Documentation Hub**: Comprehensive installation guides, deployment tutorials, and troubleshooting resources 
 
 
