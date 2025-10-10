@@ -38,9 +38,6 @@ This repository provides the official implementation of TrajBooster, featuring:
 
 ## 📋 **Deployment Guide**
 
-### 🚧 Notice
-This version is currently under testing. Features may be unstable.
-
 This comprehensive guide covers three essential deployment phases:
 
 1. **🕹️ Unitree G1 Teleoperation & Data Collection** - Complete setup and implementation
@@ -199,11 +196,7 @@ python scripts/G1_inference.py \
 
 ## Bonus: Retargeting Model Training
 
-### 🚧 *Coming Soon*
-
-Advanced retargeting model training scripts and comprehensive tutorials will be released shortly. Stay tuned for the complete training pipeline implementation.
-
-
+📖 **For detailed instructions, please refer to**: [`retargeting_model/README.md`](retargeting_model/README.md)
 
 
 ## 🔗 Resources
