@@ -300,4 +300,4 @@ class TeleVisionWrapper:
         unitree_left_wrist[1, 3] -= 0.05
         unitree_right_wrist[1, 3] += 0.05
 
-        return head_rmat, unitree_left_wrist, unitree_right_wrist, unitree_left_hand, unitree_right_hand, head_pos_x, head_pos_y, head_pos_z
+        return head_rmat, unitree_left_wrist, unitree_right_wrist, unitree_left_hand, unitree_right_hand #, head_pos_x, head_pos_y, head_pos_z
